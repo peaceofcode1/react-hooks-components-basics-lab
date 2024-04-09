@@ -25,6 +25,8 @@ function App() {
       <NavBar />
       {/* add the <Home> component here */}
       {/* add your <About> component here */}
+      <li id="home">Home</li>
+      <li id="about">About</li>
     </div>
   );
 }
